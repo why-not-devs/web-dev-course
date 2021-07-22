@@ -1,0 +1,62 @@
+class: 1
+topics:
+  dev:
+    php:
+      - variables
+      - data types:
+          - string
+          - integer
+          - float
+          - boolean
+      - constants
+      - native functions:
+          - echo
+          - print
+          - gettype
+          - settype
+          - var_dump
+      - operators:
+          - assignment operators
+          - text operators
+          - arithmetic operators
+          - logical operators
+          - comparison operators
+      - conditionals:
+          - if else
+          - switch
+          - match
+      - functions:
+          - syntax
+          - parameters by value
+          - parameters by reference
+          - scope
+          - text functions:
+              - str_repeat
+              - strlen
+              - strrev
+              - strtolower
+              - strtoupper
+              - ucfirst
+              - ucwords
+          - numeric functions:
+              - sqrt
+              - round
+              - ceil
+              - floor
+          - exceptions
+  ops:
+    - git:
+        - init
+        - branching
+        - pull
+        - push
+    - docker:
+        - images
+        - containers
+        - image ls
+        - ps
+        - build
+        - run
+  devops:
+    - stacks:
+        - LAMP

@@ -1,0 +1,84 @@
+class: 2
+topics:
+  dev:
+    php:
+      - data structures:
+          - arrays
+          - lists
+          - loops
+          - sort methods:
+              - bubble method
+      - functions:
+          - recurrence
+          - array functions:
+              - array
+              - array_pop
+              - array_push
+              - count
+          - text functions:
+              - implode
+              - explode
+          - numeric functions:
+              - rand
+              - min
+              - max
+              - pow
+      - algorithms:
+          - O
+          - Ω
+          - Θ
+      - OOP:
+          - classes & objects
+          - properties
+          - getters & setters
+          - instances
+      - namespaces
+    html:
+      - doctype
+      - tags
+      - attributes
+      - text_tags:
+          - h[x]
+          - p
+          - bold
+          - strong
+          - i
+          - em
+          - mark
+          - small
+          - del
+          - ins
+          - sub
+          - sup
+          - blockquote
+          - q
+          - abbr
+          - address
+          - cite
+          - bdo
+      - class & id
+    css:
+      - selectors
+      - syntax
+      - box-model:
+          - height/width
+          - borders
+          - margins
+          - padding
+          - outline
+      - background
+      - font and text:
+          - color
+          - font-family
+  ops:
+    - git:
+        - clone
+        - create branch
+        - pull request
+        - merge
+        - logs
+    - docker:
+        - prune
+  devops:
+    - stacks:
+        - LAMP
