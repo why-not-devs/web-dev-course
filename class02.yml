@@ -4,7 +4,6 @@ topics:
     php:
       - data structures:
           - arrays
-          - lists
           - loops
           - sort methods:
               - bubble method
